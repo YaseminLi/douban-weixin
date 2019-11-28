@@ -1,0 +1,49 @@
+
+.pc_header{
+    display: flex;
+    width:950px;
+    height: 34px;
+    margin:0 auto;
+    padding:30px 0;
+}
+.search{
+    border:1px solid #bdbbbb;
+    margin: 0 20px;
+    display: flex
+}
+.search input{
+    margin: 0px;
+    padding:0px 5px;
+    width:240px; 
+    color:black;
+    border:none;
+    font-size: 14px;
+    outline: none
+}
+.search img{
+    width:15px;
+    height:15px ;
+    margin:8.5px
+}
+.hanzi{
+    font-size: 24px;
+    line-height: 24px
+}
+.pinyin{
+    font-size: 25px;
+    line-height: 43px;
+    vertical-align: text-bottom
+}
+.ul {
+    margin:0;
+    padding: 0;
+}
+
+.ul li{
+    list-style:none;
+    display:inline-block;
+    margin-right:18px;
+    line-height:34px;
+    font-size:22px
+    
+}

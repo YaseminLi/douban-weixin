@@ -1,0 +1,16 @@
+.container{
+    background:yellowgreen;
+    width:265px;
+    margin-left:30px
+}
+.container img{
+    width:265px;
+}
+.container p{
+    color:#072;
+    font-size:15px
+}
+.container p span{
+    color:#666699;
+    font-size:12px
+}
